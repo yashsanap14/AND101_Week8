@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Pokemon Theme Colors -->
+    <color name="pokemon_red">#FFD70000</color>
+    <color name="pokemon_blue">#FF0000FF</color>
+    <color name="pokemon_yellow">#FFFFFF00</color>
+    <color name="pokemon_green">#FF00FF00</color>
+    
+    <!-- App Background -->
+    <color name="app_background">#FF1A1A1A</color>
+    
+    <!-- Header Colors -->
+    <color name="pokemon_header_background">#FFD70000</color>
+    <color name="pokemon_title_text">#FFFFFFFF</color>
+    <color name="pokemon_subtitle_text">#FFFFF0</color>
+    
+    <!-- Card Colors -->
+    <color name="pokemon_card_background">#FF2A2A2A</color>
+    <color name="pokemon_name_text">#FFFFD700</color>
+    <color name="pokemon_type_text">#FF87CEEB</color>
+    <color name="pokemon_stats_text">#FF98FB98</color>
+    
+    <!-- Image Background Colors -->
+    <color name="pokemon_image_background">#FF3A3A3A</color>
+    <color name="pokemon_image_border">#FF4A4A4A</color>
+    
+    <!-- Accent Color -->
+    <color name="pokemon_accent">#FFFFD700</color>
+    
+    <!-- Placeholder Color -->
+    <color name="pokemon_placeholder">#FF404040</color>
+</resources>

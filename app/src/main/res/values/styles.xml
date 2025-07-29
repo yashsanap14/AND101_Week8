@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Pokemon Card Style -->
+    <style name="PokemonCardStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">12dp</item>
+        <item name="android:background">@color/pokemon_card_background</item>
+        <item name="android:elevation">8dp</item>
+        <item name="android:padding">20dp</item>
+    </style>
+
+    <!-- Pokemon Title Style -->
+    <style name="PokemonTitleStyle">
+        <item name="android:textSize">32sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/pokemon_title_text</item>
+        <item name="android:fontFamily">@font/pokemon_font</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- Pokemon Name Style -->
+    <style name="PokemonNameStyle">
+        <item name="android:textSize">22sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/pokemon_name_text</item>
+        <item name="android:fontFamily">@font/pokemon_font</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- Pokemon Type Style -->
+    <style name="PokemonTypeStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/pokemon_type_text</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- Pokemon Stats Style -->
+    <style name="PokemonStatsStyle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/pokemon_stats_text</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:gravity">center</item>
+    </style>
+
+    <!-- Header Style -->
+    <style name="PokemonHeaderStyle">
+        <item name="android:background">@color/pokemon_header_background</item>
+        <item name="android:padding">20dp</item>
+        <item name="android:orientation">vertical</item>
+    </style>
+
+    <!-- Pokemon Image Style -->
+    <style name="PokemonImageStyle">
+        <item name="android:layout_width">180dp</item>
+        <item name="android:layout_height">180dp</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+</resources> 

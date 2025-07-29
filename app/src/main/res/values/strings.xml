@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Week8</string>
+    
+    <!-- Pokemon App Strings -->
+    <string name="pokemon_title">POKEMON</string>
+    <string name="pokemon_subtitle">Gotta Catch \'Em All!</string>
+    <string name="pokemon_image">Pokemon Image</string>
+    <string name="loading_pokemon">Loading Pokemon...</string>
+    <string name="error_loading">Error loading Pokemon data</string>
+    <string name="pokemon_details">Pokemon Details</string>
+</resources>
